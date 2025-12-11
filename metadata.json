@@ -1,0 +1,8 @@
+{
+  "name": "Genius-Prep",
+  "description": "The Multimodal AI Study & Exam Coach for Indian Students. Turn notes into explanations, quizzes, and plans.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
